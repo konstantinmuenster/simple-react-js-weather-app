@@ -1,0 +1,14 @@
+.AppWrapper {
+    margin: 0;
+    padding: 0;
+}
+.AppMain {
+    height: 640px;
+    margin: 0;
+    padding: .5rem 1.5rem;
+}
+@media only screen and (min-width:600px) {
+    .AppMain {
+        height: 460px;
+    }
+}

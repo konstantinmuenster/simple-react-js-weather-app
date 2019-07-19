@@ -1,0 +1,21 @@
+.WeatherDetailsWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 2rem;
+}
+.WeatherIconWrapper {
+    align-self: center;
+}
+.WeatherDataWrapper {
+    align-self: flex-start;
+}
+@media only screen and (min-width:600px) {
+    .WeatherDetailsWrapper {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .WeatherDataWrapper {
+        align-self: center;
+    }
+}

@@ -1,0 +1,11 @@
+.Preview {
+    display: block;
+    width: 100%;
+    max-width: 250px;
+    margin: auto;
+}
+@media only screen and (min-width:600px) {
+    .Preview {
+        max-width: 200px;
+    }
+}

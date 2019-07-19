@@ -1,0 +1,18 @@
+.Logo {
+    width: auto;
+    font-size: 1.1rem;
+    line-height: 100%;
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: +2px;
+    white-space: nowrap;
+}
+.Logo:hover {
+    cursor: pointer;
+}
+.Light {
+    color: #ffffff;
+}
+.Dark {
+    color: #606060;
+}
