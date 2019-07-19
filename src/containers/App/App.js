@@ -19,9 +19,9 @@ class App extends Component {
         <main className={classes.AppMain}>
           <SearchBar />
           <Card>
-            {/* <WeatherDetails /> */}
+            <WeatherDetails />
             {/* <MoonLoader /> */}
-            <Preview />
+            {/* <Preview /> */}
             {/* <ErrorNotice /> */}
           </Card>
         </main>
