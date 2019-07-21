@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/simple-react-js-weather-app/static/css/main.286833ee.chunk.css",
+    "main.js": "/simple-react-js-weather-app/static/js/main.5792caf4.chunk.js",
+    "main.js.map": "/simple-react-js-weather-app/static/js/main.5792caf4.chunk.js.map",
+    "runtime~main.js": "/simple-react-js-weather-app/static/js/runtime~main.bf3a8b8b.js",
+    "runtime~main.js.map": "/simple-react-js-weather-app/static/js/runtime~main.bf3a8b8b.js.map",
+    "static/css/2.764ccc25.chunk.css": "/simple-react-js-weather-app/static/css/2.764ccc25.chunk.css",
+    "static/js/2.a9cbcb86.chunk.js": "/simple-react-js-weather-app/static/js/2.a9cbcb86.chunk.js",
+    "static/js/2.a9cbcb86.chunk.js.map": "/simple-react-js-weather-app/static/js/2.a9cbcb86.chunk.js.map",
+    "index.html": "/simple-react-js-weather-app/index.html",
+    "precache-manifest.0e5e98f9fa488528332b6c7be66bf746.js": "/simple-react-js-weather-app/precache-manifest.0e5e98f9fa488528332b6c7be66bf746.js",
+    "service-worker.js": "/simple-react-js-weather-app/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/simple-react-js-weather-app/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.286833ee.chunk.css.map": "/simple-react-js-weather-app/static/css/main.286833ee.chunk.css.map",
+    "static/media/Clear.svg": "/simple-react-js-weather-app/static/media/Clear.f963a166.svg",
+    "static/media/Cloud-wind.svg": "/simple-react-js-weather-app/static/media/Cloud-wind.a82005aa.svg",
+    "static/media/Clouds.svg": "/simple-react-js-weather-app/static/media/Clouds.a98369fb.svg",
+    "static/media/Drizzle.svg": "/simple-react-js-weather-app/static/media/Drizzle.1ca35fb1.svg",
+    "static/media/Moon.svg": "/simple-react-js-weather-app/static/media/Moon.e3158b56.svg",
+    "static/media/Night-rainy.svg": "/simple-react-js-weather-app/static/media/Night-rainy.06f78ffe.svg",
+    "static/media/Night.svg": "/simple-react-js-weather-app/static/media/Night.7d9c9233.svg",
+    "static/media/Preview.svg": "/simple-react-js-weather-app/static/media/Preview.29a0aca0.svg",
+    "static/media/Rain.svg": "/simple-react-js-weather-app/static/media/Rain.b5e8855f.svg",
+    "static/media/Snow.svg": "/simple-react-js-weather-app/static/media/Snow.104ea80a.svg",
+    "static/media/Thunderstorm.svg": "/simple-react-js-weather-app/static/media/Thunderstorm.c623741c.svg",
+    "static/media/Tonado.svg": "/simple-react-js-weather-app/static/media/Tonado.cd8d7fce.svg"
+  }
+}

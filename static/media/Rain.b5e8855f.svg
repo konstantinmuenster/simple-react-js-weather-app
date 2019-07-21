@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Rainy-3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 59" style="enable-background:new 0 0 64 59;" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<path style="fill:#00ABD5;" d="M47.93,12.12C56.41,13.08,63,20.27,63,29c0,9.39-7.61,17-17,17c-7.32,0-25.24,0-32,0
+				C6.82,46,1,40.18,1,33s5.82-13,13-13c0.38,0,0.76,0.02,1.14,0.06C15.05,19.38,15,18.7,15,18c0-9.39,7.61-17,17-17
+				C39.32,1,45.54,5.63,47.93,12.12z"/>
+		</g>
+		<g>
+			<path style="fill:#00A2D4;" d="M11,36c0-7.18,5.82-13,13-13c0.38,0,0.76,0.02,1.14,0.06C25.05,22.38,25,21.7,25,21
+				c0-9.271,7.422-16.793,16.648-16.982C38.91,2.118,35.589,1,32,1c-9.39,0-17,7.61-17,17c0,0.7,0.05,1.38,0.14,2.06
+				C14.76,20.02,14.38,20,14,20C6.82,20,1,25.82,1,33s5.82,13,13,13c0.504,0,1.077,0,1.696,0C12.828,43.615,11,40.022,11,36z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M46,46
+				c9.389,0,17-7.611,17-17c0-8.734-6.59-15.922-15.067-16.883C45.537,5.632,39.318,1,32,1c-9.389,0-17,7.611-17,17
+				c0,0.698,0.055,1.382,0.136,2.057C14.761,20.025,14.384,20,14,20C6.82,20,1,25.82,1,33s5.82,13,13,13"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M21,17
+				c0-5.523,4.477-10,10-10"/>
+		</g>
+		<g id="XMLID_2_">
+			<g>
+				<path style="fill:#E7ECED;" d="M40,47c0,0,9,11,0,11S40,47,40,47z"/>
+				<path style="fill:#E7ECED;" d="M30,38c0,0,9,11,0,11S30,38,30,38z"/>
+				<path style="fill:#E7ECED;" d="M20,47c0,0,9,11,0,11S20,47,20,47z"/>
+			</g>
+			<g>
+				<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M30,49c9,0,0-11,0-11
+					S21,49,30,49z"/>
+				<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M20,58c9,0,0-11,0-11
+					S11,58,20,58z"/>
+				<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" d="M40,58c9,0,0-11,0-11
+					S31,58,40,58z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
