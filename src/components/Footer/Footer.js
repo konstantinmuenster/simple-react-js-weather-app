@@ -6,7 +6,7 @@ import Logo from '../../elements/Logo/Logo';
 const footer = (props) => {
     return(
         <footer className={classes.Footer}>
-            <Logo colorScheme='dark' />
+            <Logo colorScheme='dark' clicked={props.onClickHandler} />
             <div className={classes.Separator}></div>
         </footer>
     );

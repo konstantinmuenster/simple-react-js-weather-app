@@ -10,7 +10,11 @@ const errorNotice = (props) => {
             <div className={classes.ErrorTextWrapper}>
                 <h2 className={classes.NotFoundHeading}>Oops!</h2>
                 <p className={classes.NotFoundDetails}>We can't find the city you are looking for.</p>
-                <Button name="tryAgain" type="button" position="onErrorNotice">Try again</Button>
+                <Button 
+                    name="tryAgain" 
+                    type="button" 
+                    position="onErrorNotice"
+                    clicked={props.onClickHandler}>Try again</Button>
             </div>
         </div>
     );

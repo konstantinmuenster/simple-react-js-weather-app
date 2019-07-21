@@ -6,7 +6,7 @@ const preview = (props) => {
     return(
         <img
             src={require('../../assets/images/Preview.svg')}
-            alt="Not Found Icon"
+            alt="Weather App Icon"
             className={classes.Preview} />
     );
 }

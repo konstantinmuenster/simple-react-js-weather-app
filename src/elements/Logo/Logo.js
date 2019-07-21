@@ -8,7 +8,7 @@ const logo = (props) => {
         (props.colorScheme === 'dark') ? classes.Dark : classes.Light
     ];
     return(
-        <h1 className={logoWithColorScheme.join(' ')}>
+        <h1 className={logoWithColorScheme.join(' ')} onClick={props.clicked}>
             My Weather
         </h1>
     );

@@ -3,10 +3,13 @@
     padding: .5rem 1.5rem;
     height: 100%;
     min-height: 2.5rem;
-    background: #18B2D8;
+    background: #C0B3BC;
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    -webkit-transition: background-color .5s ease-out;
+    -ms-transition: background-color .5s ease-out;
+    transition: background-color .5s ease-out;
 }
 @media only screen and (min-width:600px) {
     .Header {
