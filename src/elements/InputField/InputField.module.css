@@ -1,18 +1,20 @@
 .InputFieldWrapper input {
     display: block;
     margin-top: .5rem;
+    padding: 0;
     width: 100%;
     max-width: 280px;
-    height: 38px;
+    height: auto;
+    line-height: normal;
     font-size: 1.875rem;
-    line-height: 100%;
     color: #333333;
     border: none;
     border-bottom: 2px solid #d6d6d6;
 }
 .InputFieldWrapper input::placeholder {
     color: #adadad;
-    opacity: 1; /* Firefox */
+    opacity: 1;
+    line-height:normal !important;
 }
 .InputFieldWrapper input:focus,
 .InputFieldWrapper input:active {
