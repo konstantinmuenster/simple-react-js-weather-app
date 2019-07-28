@@ -4,6 +4,7 @@
 A simple weather app that allows you to get current weather information, based on the city you enter.
 
 I created this small project for an article I wrote on Medium.
+[How to plan and organize a React project - by building a weather app](https://medium.com/@konstantin.muenster/how-to-plan-and-organize-a-react-project-by-building-a-weather-app-95175b11bd01)
 
 ![Screenshot React Weather App](screenshot.png)
 
